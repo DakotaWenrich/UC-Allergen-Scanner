@@ -14,10 +14,10 @@ Reading ingredient labels with UC or Crohn's is stressful. Standard allergen app
 - **Confidence score** so users know when the AI is unsure.
 - **Safer swaps** for flagged foods.
 ## Screenshots
-![Profile sidebar](screenshots/profile.png)
-![Upload a label](screenshots/upload.png)
-![Result](screenshots/result.png)
-![IBD triggers and swaps](screenshots/triggers.png)
+![Profile sidebar](screenshots/Conditions.png)
+![Upload a label](screenshots/InterfaceUpload.png)
+![Result](screenshots/Results.png)
+![IBD triggers and swaps](screenshots/Triggers.png)
  
 ## How AI is used
 A multimodal Gemini model reads the image, extracts ingredients, and reasons over them against the user's profile. The model returns structured JSON, which the app turns into the badge, triggers and swaps.
