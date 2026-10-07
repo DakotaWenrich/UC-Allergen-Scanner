@@ -23,10 +23,11 @@ Reading ingredient labels with UC or Crohn's is stressful. Standard allergen app
 - **Scan history** for the session.
 
 ## Screenshots (working prototype)
-![Profile sidebar](screenshots/profile.png)
-![Upload a label](screenshots/upload.png)
-![Result](screenshots/result.png)
-![IBD triggers and swaps](screenshots/triggers.png)
+![Profile sidebar](screenshots/Conditions.png)
+![Upload a label](screenshots/InterfaceUpload.png)
+![Result](screenshots/Results.png)
+![IBD triggers and swaps](screenshots/Triggers.png)
+
 
 ## Design (Option B)
 The Figma prototype shows the mobile experience: welcome, profile setup, camera capture, analyzing, results and safer swaps. The prototype implements the profile, scan, analyzing steps, results, swaps and history. The welcome screen and camera frame are mobile-only ideas that are part of the design vision.
