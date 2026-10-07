@@ -32,7 +32,7 @@ Reading ingredient labels with UC or Crohn's is stressful. Standard allergen app
 ## Design (Option B)
 The Figma prototype shows the mobile experience: welcome, profile setup, camera capture, analyzing, results and safer swaps. The prototype implements the profile, scan, analyzing steps, results, swaps and history. The welcome screen and camera frame are mobile-only ideas that are part of the design vision.
 
-![Figma results screens](design/results.png)
+![Figma results screens](design/Figma.png)
 
 ## How AI is used
 A multimodal Gemini model reads the image, extracts ingredients, and reasons over them against the user's profile (condition, flare vs. remission, allergies, custom triggers). It returns structured JSON, which the app turns into the risk badge, confidence score, triggers and swaps. The app retries automatically if the model is busy.
