@@ -9,7 +9,6 @@ An AI-powered app that scans a food label or meal photo and flags **allergens** 
 |---|---|
 | **A. Working AI prototype** | This repo (`app_gemini.py`). Run steps below |
 | **B. Figma design** | [Figma prototype](https://cushy-from-45309492.figma.site) and exported screens in [`design/`](design/) |
-| **C. Video pitch (3 min)** | [Watch the video](PASTE-VIDEO-LINK-HERE) |
 
 ## The problem
 Reading ingredient labels with UC or Crohn's is stressful. Standard allergen apps only flag the top major allergens, and miss common IBD irritants like carrageenan, polysorbate 80, cellulose gum, artificial sweeteners and high-FODMAP ingredients.
